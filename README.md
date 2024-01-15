@@ -19,7 +19,7 @@ To enhance Vrinda Store sales, consider the following strategy:
 This targeted approach aims to optimize sales by reaching the most responsive demographic in key regions through effective online channels.
 
 ---
-**Dashboard Below:**
+## **Dashboard Below:**
 
 ![Vrinda Sales Report interactive Dashboard](https://github.com/Koushik-bandapadya/Data-Analysis-Vrinda-Sales-Report-Interactive-Dashboard/assets/62791323/27468986-55aa-4e5a-ab51-8895882abd9d)
 
